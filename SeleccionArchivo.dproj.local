@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/11 10:08:40.000.096,=C:\Users\Danniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 10:16:52.000.814,C:\Users\Danniel\Documents\Embarcadero\Studio\Projects\FileSelector.dproj=C:\Users\Danniel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/11 10:17:09.000.284,C:\Users\Danniel\Desktop\MisApps\FileSelectorAndroid\UPrincipal.fmx=C:\Users\Danniel\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/07/11 10:17:09.000.284,C:\Users\Danniel\Desktop\MisApps\FileSelectorAndroid\UPrincipal.pas=C:\Users\Danniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/11 10:17:13.000.832,C:\Users\Danniel\Desktop\MisApps\FileSelectorAndroid\FileSelector.dproj=C:\Users\Danniel\Documents\Embarcadero\Studio\Projects\FileSelector.dproj</Transaction>
+    <Transaction>2022/05/04 17:51:29.000.291,C:\Users\soporte\Desktop\Personales\MisApps\Inconclusos o sin subir\FileSelectorAndroid\FileSelector.dproj=C:\Users\soporte\Desktop\Personales\MisApps\Inconclusos o sin subir\FileSelectorAndroid\SeleccionArchivo.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="9LYPFMTSXC6HRS45" Android64="NSEGQ101202003006110"/>
+	</ActiveMobileDevice>
+</BorlandProject>
